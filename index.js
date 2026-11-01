@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 $(document).ready(function(){
     $(window).scroll(function(){
         // sticky navbar on scroll script
